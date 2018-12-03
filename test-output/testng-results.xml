@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74749" started-at="2018-12-03T11:16:21Z" finished-at="2018-12-03T11:17:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74749" started-at="2018-12-03T11:16:21Z" finished-at="2018-12-03T11:17:35Z">
+      <class name="com.expedia.test.SignInTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="11901" started-at="2018-12-03T11:16:21Z" finished-at="2018-12-03T11:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="keepSignInCheckBoxTest()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="keepSignInCheckBoxTest" duration-ms="140" started-at="2018-12-03T11:16:33Z" finished-at="2018-12-03T11:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keepSignInCheckBoxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="1363" started-at="2018-12-03T11:16:33Z" finished-at="2018-12-03T11:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="11930" started-at="2018-12-03T11:16:35Z" finished-at="2018-12-03T11:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="signInTest" duration-ms="3066" started-at="2018-12-03T11:16:47Z" data-provider="getDataFromExcel" finished-at="2018-12-03T11:16:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[viveklakhina2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dojiona@1992]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="3550" started-at="2018-12-03T11:16:50Z" finished-at="2018-12-03T11:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="9675" started-at="2018-12-03T11:16:53Z" finished-at="2018-12-03T11:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="signInTest" duration-ms="2775" started-at="2018-12-03T11:17:03Z" data-provider="getDataFromExcel" finished-at="2018-12-03T11:17:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[premprakash@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ihavebrains]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="1132" started-at="2018-12-03T11:17:06Z" finished-at="2018-12-03T11:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="10279" started-at="2018-12-03T11:17:07Z" finished-at="2018-12-03T11:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="signInTest" duration-ms="2719" started-at="2018-12-03T11:17:17Z" data-provider="getDataFromExcel" finished-at="2018-12-03T11:17:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishubijuri@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[iknowpremhasbrain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="1184" started-at="2018-12-03T11:17:20Z" finished-at="2018-12-03T11:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="10534" started-at="2018-12-03T11:17:21Z" finished-at="2018-12-03T11:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="signInTest" duration-ms="2571" started-at="2018-12-03T11:17:32Z" data-provider="getDataFromExcel" finished-at="2018-12-03T11:17:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123123a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="1260" started-at="2018-12-03T11:17:34Z" finished-at="2018-12-03T11:17:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.expedia.test.SignInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
