@@ -30,7 +30,7 @@ public class HomePageTest extends BaseClass {
 	public void validateHomePageTitle() {
 
 		String pageTitle = hpage.getPageTitle();
-		Assert.assertEquals(pageTitle, "Expedia Travel: Vacations, Cheap Flights, Airline Tickets & Airfares");
+		Assert.assertEquals(pageTitle, "Sign In");
 	}
 
 	@Test
