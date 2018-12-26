@@ -40,7 +40,7 @@ public class TestUtils extends BaseClass {
 		try {
 			FileInputStream fis = new FileInputStream(prop.getProperty("ExpediaTestData"));
 			wb = new XSSFWorkbook(fis);
-			sheet = wb.getSheet(prop.getProperty("SigninTestaData"));
+			sheet = wb.getSheet(prop.getProperty("SheetName"));
 
 		} catch (FileNotFoundException e) {
 			System.out.println(e.getLocalizedMessage());

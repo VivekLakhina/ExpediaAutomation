@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="74749" started-at="2018-12-03T11:16:21Z" finished-at="2018-12-03T11:17:35Z">
+  <suite name="ExpediaAutomationSuite" duration-ms="80148" started-at="2018-12-08T15:11:55Z" finished-at="2018-12-08T15:13:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="74749" started-at="2018-12-03T11:16:21Z" finished-at="2018-12-03T11:17:35Z">
+    <test name="ExpediaAutomationTest" duration-ms="80148" started-at="2018-12-08T15:11:55Z" finished-at="2018-12-08T15:13:15Z">
       <class name="com.expedia.test.SignInTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="11901" started-at="2018-12-03T11:16:21Z" finished-at="2018-12-03T11:16:33Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="setup" is-config="true" duration-ms="12473" started-at="2018-12-08T15:11:55Z" finished-at="2018-12-08T15:12:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="keepSignInCheckBoxTest()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="keepSignInCheckBoxTest" duration-ms="140" started-at="2018-12-03T11:16:33Z" finished-at="2018-12-03T11:16:33Z">
+        <test-method status="PASS" signature="keepSignInCheckBoxTest()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="keepSignInCheckBoxTest" duration-ms="118" started-at="2018-12-08T15:12:08Z" finished-at="2018-12-08T15:12:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keepSignInCheckBoxTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="1363" started-at="2018-12-03T11:16:33Z" finished-at="2018-12-03T11:16:34Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="tearDown" is-config="true" duration-ms="3492" started-at="2018-12-08T15:12:08Z" finished-at="2018-12-08T15:12:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="11930" started-at="2018-12-03T11:16:35Z" finished-at="2018-12-03T11:16:47Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="setup" is-config="true" duration-ms="10554" started-at="2018-12-08T15:12:12Z" finished-at="2018-12-08T15:12:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="signInTest" duration-ms="3066" started-at="2018-12-03T11:16:47Z" data-provider="getDataFromExcel" finished-at="2018-12-03T11:16:50Z">
+        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="signInTest" duration-ms="2705" started-at="2018-12-08T15:12:23Z" data-provider="getDataFromExcel" finished-at="2018-12-08T15:12:25Z">
           <params>
             <param index="0">
               <value>
@@ -39,15 +39,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="3550" started-at="2018-12-03T11:16:50Z" finished-at="2018-12-03T11:16:53Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="tearDown" is-config="true" duration-ms="1149" started-at="2018-12-08T15:12:25Z" finished-at="2018-12-08T15:12:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="9675" started-at="2018-12-03T11:16:53Z" finished-at="2018-12-03T11:17:03Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="setup" is-config="true" duration-ms="10795" started-at="2018-12-08T15:12:26Z" finished-at="2018-12-08T15:12:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="signInTest" duration-ms="2775" started-at="2018-12-03T11:17:03Z" data-provider="getDataFromExcel" finished-at="2018-12-03T11:17:06Z">
+        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="signInTest" duration-ms="2649" started-at="2018-12-08T15:12:37Z" data-provider="getDataFromExcel" finished-at="2018-12-08T15:12:40Z">
           <params>
             <param index="0">
               <value>
@@ -63,15 +63,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="1132" started-at="2018-12-03T11:17:06Z" finished-at="2018-12-03T11:17:07Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="tearDown" is-config="true" duration-ms="3497" started-at="2018-12-08T15:12:40Z" finished-at="2018-12-08T15:12:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="10279" started-at="2018-12-03T11:17:07Z" finished-at="2018-12-03T11:17:17Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="setup" is-config="true" duration-ms="10913" started-at="2018-12-08T15:12:43Z" finished-at="2018-12-08T15:12:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="signInTest" duration-ms="2719" started-at="2018-12-03T11:17:17Z" data-provider="getDataFromExcel" finished-at="2018-12-03T11:17:20Z">
+        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="signInTest" duration-ms="2738" started-at="2018-12-08T15:12:54Z" data-provider="getDataFromExcel" finished-at="2018-12-08T15:12:57Z">
           <params>
             <param index="0">
               <value>
@@ -87,15 +87,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="1184" started-at="2018-12-03T11:17:20Z" finished-at="2018-12-03T11:17:21Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="tearDown" is-config="true" duration-ms="3493" started-at="2018-12-08T15:12:57Z" finished-at="2018-12-08T15:13:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="setup" is-config="true" duration-ms="10534" started-at="2018-12-03T11:17:21Z" finished-at="2018-12-03T11:17:32Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="setup" is-config="true" duration-ms="11105" started-at="2018-12-08T15:13:01Z" finished-at="2018-12-08T15:13:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="signInTest" duration-ms="2571" started-at="2018-12-03T11:17:32Z" data-provider="getDataFromExcel" finished-at="2018-12-03T11:17:34Z">
+        <test-method status="PASS" signature="signInTest(java.lang.String, java.lang.String)[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="signInTest" duration-ms="2504" started-at="2018-12-08T15:13:12Z" data-provider="getDataFromExcel" finished-at="2018-12-08T15:13:14Z">
           <params>
             <param index="0">
               <value>
@@ -111,11 +111,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signInTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@68c4039c]" name="tearDown" is-config="true" duration-ms="1260" started-at="2018-12-03T11:17:34Z" finished-at="2018-12-03T11:17:35Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.expedia.test.SignInTest@91161c7]" name="tearDown" is-config="true" duration-ms="1222" started-at="2018-12-08T15:13:14Z" finished-at="2018-12-08T15:13:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.expedia.test.SignInTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- ExpediaAutomationTest -->
+  </suite> <!-- ExpediaAutomationSuite -->
 </testng-results>

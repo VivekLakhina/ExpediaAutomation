@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ExpediaAutomationSuite">
+
+	<listeners>
+		<listener class-name="com.expedia.utils.ExtentReportListener"></listener>
+	</listeners>
+
+
+	<test name="ExpediaAutomationTest">
+		<classes>
+
+			<class name="com.expedia.test.SignInTest"></class>
+			<!--  class name="com.expedia.test.HomePageTest"></class>-->
+		</classes>
+
+	</test>
+</suite>
